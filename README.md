@@ -1,2 +1,2 @@
-# foxy
+# Foxy
 Foxy - Your Personal Song Recognizer
