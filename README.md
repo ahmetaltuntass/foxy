@@ -34,7 +34,7 @@ notshiloh
 Clone the project
 
 ```bash
-  git clone https://github.com/foxy
+  git clone https://github.com/ahmetaltuntass/foxy
 ```
 
 Go to the project directory
