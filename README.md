@@ -72,7 +72,7 @@ Install dependencies
 - [@delifiseq](https://github.com/delifiseq)
 
 ## Special Thanks
-- Special thanks to our lecturer [@Deniz2030](https://github.com/Deniz2030) who taught the first steps of Python Programming language.
+- Special thanks to our lecturer [@Deniz2030](https://github.com/Deniz2030) who taught us the first steps of Python Programming language.
 
 ## Support
 
