@@ -1,5 +1,7 @@
+![foxy](https://github.com/ahmetaltuntass/foxy/assets/111579029/7c53d488-fc94-4e4b-9dfd-c099decc24fd)
+# Foxy!
 
-# Foxy
+
 
 Song recognition and finder with lyrics application created by Python.
 
@@ -67,7 +69,10 @@ Install dependencies
 ## Authors
 
 - [@ahmetaltuntass](https://github.com/ahmetaltuntass)
+- [@delifiseq](https://github.com/delifiseq)
 
+## Special Thanks
+- Special thanks to our lecturer [@Deniz2030](https://github.com/Deniz2030) who taught the first steps of Python Programming language.
 
 ## Support
 
