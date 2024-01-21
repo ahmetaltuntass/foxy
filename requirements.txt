@@ -1,0 +1,7 @@
+requests
+tkinter
+pillow
+customtkinter
+time
+pyaudio
+wave
