@@ -3,7 +3,7 @@
 
 
 
-Song recognition and finder with lyrics application created by Python.
+Song recognition and finder with lyrics application created with Python.
 
 ### Disclaimer
 This application uses Genius and AudD API. For further uses you need to keep API key up to date in every 2 weeks for using trial using AudD.
